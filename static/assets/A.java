@@ -1,0 +1,1 @@
+customsprites/PlayerKnight_(E).gif
